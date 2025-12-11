@@ -26,7 +26,7 @@ public class Main {
             System.out.println("1.Deposit");
             System.out.println("2.Withdraw");
             System.out.println("3.Check balance");
-            System.out.println("any other key to quit");
+            System.out.println("4.quit");
 
 
 
